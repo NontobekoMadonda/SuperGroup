@@ -10,7 +10,6 @@ def can_organize_books(shelf):
     
     return "YES"
 
-# Example usage
 print(can_organize_books([5, 5, 3, 3, 2, 2]))  # testing
 print(can_organize_books([1, 2, 3, 4, 4, 3, 2, 1]))  # testing
 print(can_organize_books([1, 1, 1, 2, 2, 2, 3, 3, 3]))  # testing
